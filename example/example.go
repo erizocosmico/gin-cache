@@ -4,9 +4,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/dpordomingo/go-gingonic-cache"
-	"github.com/dpordomingo/go-gingonic-cache/persistence"
-	"gopkg.in/gin-gonic/gin.v1"
+	"github.com/erizocosmico/gin-cache"
+	"github.com/erizocosmico/gin-cache/persistence"
+
+	"github.com/gin-gonic/gin"
 )
 
 func main() {

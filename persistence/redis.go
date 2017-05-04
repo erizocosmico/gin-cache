@@ -3,7 +3,8 @@ package persistence
 import (
 	"time"
 
-	"github.com/dpordomingo/go-gingonic-cache/utils"
+	"github.com/erizocosmico/gin-cache/utils"
+
 	"github.com/garyburd/redigo/redis"
 )
 
