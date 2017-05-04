@@ -8,9 +8,9 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/dpordomingo/go-gingonic-cache/persistence"
+	"github.com/erizocosmico/gin-cache/persistence"
 
-	"gopkg.in/gin-gonic/gin.v1"
+	"github.com/gin-gonic/gin"
 )
 
 const (
